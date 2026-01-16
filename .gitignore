@@ -1,0 +1,16 @@
+target/
+logs/
+disconf/
+apollo/
+.idea/
+.settings/
+0/
+
+*.DS_Store
+*.classpath
+*.project
+*.dat
+*.tmp
+*.iml
+
+
